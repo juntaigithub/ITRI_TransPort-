@@ -1,0 +1,8 @@
+﻿2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。
+2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。
+2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。
+2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。
+2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。
+2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。
+2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。
+2017/5/23 下午 10:19:09	Worker.GenerateEntity	並未將物件參考設定為物件的執行個體。

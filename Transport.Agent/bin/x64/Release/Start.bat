@@ -1,0 +1,14 @@
+net start Transport.T01
+net start Transport.T02
+net start Transport.T03
+net start Transport.T04
+net start Transport.T05
+net start Transport.T06
+net start Transport.T07
+net start Transport.T08
+net start Transport.T09
+net start Transport.T10
+net start Transport.T11
+net start Transport.T12
+net start Transport.T13
+net start Transport.T14

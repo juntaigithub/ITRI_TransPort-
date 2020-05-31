@@ -1,0 +1,15 @@
+C:\[Projects]\Juntai\Juntai_105工研院交通車\Code\Transport.Sync\bin\Debug\Transport.Sync.exe.config
+C:\[Projects]\Juntai\Juntai_105工研院交通車\Code\Transport.Sync\bin\Debug\Transport.Sync.exe
+C:\[Projects]\Juntai\Juntai_105工研院交通車\Code\Transport.Sync\bin\Debug\Transport.Sync.pdb
+C:\[Projects]\Juntai\Juntai_105工研院交通車\Code\Transport.Sync\obj\Debug\Transport.Sync.exe
+C:\[Projects]\Juntai\Juntai_105工研院交通車\Code\Transport.Sync\obj\Debug\Transport.Sync.pdb
+D:\[Projects]\04_JUNTAI\Juntai_105工研院交通車\Code\Transport.Sync\bin\Debug\Transport.Sync.exe.config
+D:\[Projects]\04_JUNTAI\Juntai_105工研院交通車\Code\Transport.Sync\bin\Debug\Transport.Sync.exe
+D:\[Projects]\04_JUNTAI\Juntai_105工研院交通車\Code\Transport.Sync\bin\Debug\Transport.Sync.pdb
+D:\[Projects]\04_JUNTAI\Juntai_105工研院交通車\Code\Transport.Sync\obj\Debug\Transport.Sync.exe
+D:\[Projects]\04_JUNTAI\Juntai_105工研院交通車\Code\Transport.Sync\obj\Debug\Transport.Sync.pdb
+D:\Royal\Wood\Transport\Transport.Sync\bin\Debug\Transport.Sync.exe.config
+D:\Royal\Wood\Transport\Transport.Sync\bin\Debug\Transport.Sync.exe
+D:\Royal\Wood\Transport\Transport.Sync\bin\Debug\Transport.Sync.pdb
+D:\Royal\Wood\Transport\Transport.Sync\obj\Debug\Transport.Sync.exe
+D:\Royal\Wood\Transport\Transport.Sync\obj\Debug\Transport.Sync.pdb

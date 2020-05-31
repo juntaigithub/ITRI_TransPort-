@@ -1,0 +1,5 @@
+D:\Royal\Wood\Transport\Transport.Sync\bin\x86\Debug\Transport.Sync.exe.config
+D:\Royal\Wood\Transport\Transport.Sync\bin\x86\Debug\Transport.Sync.exe
+D:\Royal\Wood\Transport\Transport.Sync\bin\x86\Debug\Transport.Sync.pdb
+D:\Royal\Wood\Transport\Transport.Sync\obj\x86\Debug\Transport.Sync.exe
+D:\Royal\Wood\Transport\Transport.Sync\obj\x86\Debug\Transport.Sync.pdb
